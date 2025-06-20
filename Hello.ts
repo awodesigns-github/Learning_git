@@ -7,3 +7,7 @@ console.log('Second commit before reset');
 // Removed buggy code...
 
 // Fixed a bug - suppose a component bug
+
+// Implementing a feature to test out git stash
+for (let i = 0; i < 5; i++)
+    console.log('Random loop');
