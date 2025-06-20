@@ -5,3 +5,5 @@ console.log('First commit before reset');
 console.log('Second commit before reset');
 
 // Removed buggy code...
+
+// Fixed a bug - suppose a component bug
